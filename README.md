@@ -17,8 +17,6 @@ Sarissa Personel Blog Template is an open source, generic blog template for [Tai
 - [Heroicons](https://heroicons.com/)
 - [Feather](https://feathericons.com/) icons
 
-## Support
-
 
 ## License
 
